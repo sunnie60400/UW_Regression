@@ -3,8 +3,8 @@
 Assignments
 
 W1: Simple Linear Regression
-● Write a function to compute the simple linear regression weights using the closed form solution
-● Write a function to make predictions of the output given the input feature
+- Write a function to compute the simple linear regression weights using the closed form solution
+- Write a function to make predictions of the output given the input feature
 ● Turn the regression around to predict the input/feature given the output
 ● Evaluate different models via RSS 
 
